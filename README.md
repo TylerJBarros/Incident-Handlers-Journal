@@ -1,6 +1,6 @@
 # Incident-Handlers-Journal
 <h2>Description</h2>
-I worked on and completed the Google Cybersecurity Certificate in the spring of 2025. During the certification process, I completed an activity involving a scenario from a healthcare company. I was tasked with updating a file containing the IP addresses of employees who had access to restricted content. The company provided a remove list, containing IP addresses that needed to be removed from the original file. I created a Python algorithm to check whether the allow list contained any IP addresses on the remove list. If any of the IP addresses matched, they were removed from the allow list.
+I worked on and completed the Google Cybersecurity Certificate in the spring of 2025. During the certification process, I completed an activity in which I reviewed the details of security incidents and documented them in an incident handler’s journal. Each entry included the timestamp of the incident, a description of the event, the tools used, the five W’s (Who, what, when, where, and why), and any additional notes on the incident. Other entries describe labs that have been completed in security tools.
 <br />
 <br />
 
