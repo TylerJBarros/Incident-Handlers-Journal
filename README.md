@@ -4,30 +4,30 @@ I worked on and completed the Google Cybersecurity Certificate in the spring of 
 <br />
 <br />
 
-<h2>File Updater Algorithm Breakdown:</h2>
+<h2>Incident Handler's Journal Entries:</h2>
 
 <p align="center">
-Assign import_file to the file name and remove_list to the IP addresses that no longer have access: <br/>
+A ransomware attack on a small US healthcare company: <br/>
  <br />
 <img src="File Updater Code 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
 <br />
 <br />
-Open the file and use the .read() function to convert the content into a string. Store this string in a variable called ip_addresses: <br/>
+A financial services company was a victim of a trojan attack: <br/>
  <br />
 <img src="File Updater Code 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
 <br />
 <br />
-Use the .split() method to convert the ip_addresses string into a list: <br/>
+A review of a final report for a security breach: <br/>
  <br />
 <img src="File Updater Code 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
 <br />
 <br />
-Create a while loop that will remove an element from ip_addresses that matches an element in the remove_list. Use the .remove() method: <br/>
+A query performed on Splunk: <br/>
  <br />
 <img src="File Updater Code 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
 <br />
 <br />
- Use the .join() method to convert ip_addresses into a string, then use the .write() method to write over the import_file variable: <br/>
+ The exploration of a domain on Chronicle: <br/>
  <br />
 <img src="File Updater Code 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
 <br />
