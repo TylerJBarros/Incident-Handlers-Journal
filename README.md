@@ -40,11 +40,10 @@ A query performed on Splunk: <br/>
 This is the complete incident handler's journal pdf version: <br/>
  <br />
 <img src="PDF Logo.jpg" height="1.3%" width="1.3%" alt="PDF Logo" />
-<a href="Full File Updater Code.pdf">Complete File Updater Code.pdf</a>
+<a href="Complete Incident Handler's Journal.pdf">Complete Incident Handler's Journal.pdf</a>
  <br />
  <br />
-<img src="Python Logo.png" height="1.5%" width="1.5%" alt="PDF Logo" />
-<a href="File_Updater.py">File_Updater.py</a>
+
 
  
 </p>
