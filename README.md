@@ -9,27 +9,27 @@ I worked on and completed the Google Cybersecurity Certificate in the spring of 
 <p align="center">
 A ransomware attack on a small US healthcare company: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
+<img src="Incident Handler's Journal Entry 1.png" height="80%" width="80%" alt="Entry 1"/>
 <br />
 <br />
 A financial services company was a victim of a trojan attack: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 2.png" height="110%" width="110%" alt="Replacing Line in a File"/>
+<img src="Incident Handler's Journal Entry 2.png" height="110%" width="110%" alt="Entry 2"/>
 <br />
 <br />
 A review of a final report for a security breach: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
+<img src="Incident Handler's Journal Entry 3.png" height="80%" width="80%" alt="Entry 3"/>
 <br />
 <br />
 A query performed on Splunk: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
+<img src="Incident Handler's Journal Entry 4.png" height="80%" width="80%" alt="Entry 4"/>
 <br />
 <br />
  The exploration of a domain on Chronicle: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
+<img src="Incident Handler's Journal Entry 5.png" height="80%" width="80%" alt="Entry 5"/>
 <br />
 <br />
 
