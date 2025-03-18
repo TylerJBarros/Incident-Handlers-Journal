@@ -14,7 +14,7 @@ A ransomware attack on a small US healthcare company: <br/>
 <br />
 A financial services company was a victim of a trojan attack: <br/>
  <br />
-<img src="Incident Handler's Journal Entry 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
+<img src="Incident Handler's Journal Entry 2.png" height="110%" width="110%" alt="Replacing Line in a File"/>
 <br />
 <br />
 A review of a final report for a security breach: <br/>
