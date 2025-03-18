@@ -9,27 +9,27 @@ I worked on and completed the Google Cybersecurity Certificate in the spring of 
 <p align="center">
 A ransomware attack on a small US healthcare company: <br/>
  <br />
-<img src="File Updater Code 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
+<img src="Incident Handler's Journal Entry 1.png" height="80%" width="80%" alt="Intilization and Reading Files"/>
 <br />
 <br />
 A financial services company was a victim of a trojan attack: <br/>
  <br />
-<img src="File Updater Code 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
+<img src="Incident Handler's Journal Entry 2.png" height="80%" width="80%" alt="Replacing Line in a File"/>
 <br />
 <br />
 A review of a final report for a security breach: <br/>
  <br />
-<img src="File Updater Code 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
+<img src="Incident Handler's Journal Entry 3.png" height="80%" width="80%" alt="Finding the Word 'Total'"/>
 <br />
 <br />
 A query performed on Splunk: <br/>
  <br />
-<img src="File Updater Code 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
+<img src="Incident Handler's Journal Entry 4.png" height="80%" width="80%" alt="Getting the Total Host Number"/>
 <br />
 <br />
  The exploration of a domain on Chronicle: <br/>
  <br />
-<img src="File Updater Code 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
+<img src="Incident Handler's Journal Entry 5.png" height="80%" width="80%" alt="Number of High Severity Vulnerabilities"/>
 <br />
 <br />
 
@@ -37,7 +37,7 @@ A query performed on Splunk: <br/>
 <h2>Full File Updater Code:</h2>
 
 <p align="center">
-This is the complete code for the file updater algorithm. The actual python file is attached to this repository in conjunction with this pdf version: <br/>
+This is the complete incident handler's journal pdf version: <br/>
  <br />
 <img src="PDF Logo.jpg" height="1.3%" width="1.3%" alt="PDF Logo" />
 <a href="Full File Updater Code.pdf">Complete File Updater Code.pdf</a>
